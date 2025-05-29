@@ -59,9 +59,9 @@
 
 <div align="Center">
 
-| CtorW's Stats | Ultimate Streak |
+| JohnnyRDF2024 Stats | Ultimate Streak |
 | ------------- | ------------- |
-| ![JohnnyRDF2024](https://github-readme-stats.vercel.app/api?username=JohnnyRDF2024&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![JohnnyRDF2024](https://github-readme-streak-stats.herokuapp.com/?user=CtorW&theme=onedark&hide_border=true) 
+| ![JohnnyRDF2024](https://github-readme-stats.vercel.app/api?username=JohnnyRDF2024&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![JohnnyRDF2024](https://github-readme-streak-stats.herokuapp.com/?user=JohnnyRDF2024&theme=onedark&hide_border=true) 
 
 | Most Lang |
 | ----------|
